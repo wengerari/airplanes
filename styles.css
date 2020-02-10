@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 70vw;
+    margin: 100px auto;
+}
+
+.data-line{
+    min-width: 900px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.data-line div{
+    width: 150px;
+    padding: 0 5px 0;
+}
+
